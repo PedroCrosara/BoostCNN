@@ -11,7 +11,7 @@ performance, achieving an accuracy of 87.64±2.68\%, sensitivity of 87.39±6.41,
 These results demonstrate that our methods are a possible tool to enhance specificity in ultrasound breast cancer classification without sacrificing much sensitivity.
 ---
 
-## 🖼️ Methodology
-![Method](flowchart.pdf)
+## Methodology
+![Method](flowchart.png)
 
 ---
