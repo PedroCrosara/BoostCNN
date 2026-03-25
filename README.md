@@ -12,6 +12,6 @@ These results demonstrate that our methods are a possible tool to enhance specif
 ---
 
 ## 🖼️ Methodology
-![Method](figures/flowchart_v4.pdf)
+![Method](flowchart.pdf)
 
 ---
